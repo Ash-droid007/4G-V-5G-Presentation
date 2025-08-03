@@ -1,3 +1,9 @@
+# 4G vs 5G Presentation 📶
+
+This presentation explains the core differences between 4G and 5G, their applications, and the impact on technology and communication.
+
+📄 [Click here to view the PDF Presentation](./4G-vs-5G.pdf
+
 4G vs 5G: What's the Real Difference?
 
 This presentation compares the core differences between 4G and 5G wireless technologies in terms of:
